@@ -1,0 +1,9 @@
+﻿label.invalid {
+    font-weight: bold;
+    color: #ce0653;
+}
+
+input.invalid {
+    background-color: #fcbed6;
+    border-color: #ce0653;
+}
